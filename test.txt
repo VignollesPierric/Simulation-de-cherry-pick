@@ -2,3 +2,4 @@ Un document de test où on veut prendre le texte "Commit qu'on veut"
 dans la branche "testCherry"
 
 Commit qu'on veut
+Texte qu'on ne veut ABSOLUMENT PAS.
